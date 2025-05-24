@@ -1,0 +1,32 @@
+
+Blockchain Adoption in Food Supply Chains A Systematic Literature Review on Enablers, Benefits, and Barriers
+
+
+
+IEEE Transaction on Blockchain,Volume:11,Issue Date:13.January.2023
+
+
+Members
+
+
+Fid	
+Datesk	
+Item_Name	
+Departure_Date	
+From_Source	
+To_Destination	
+Logistics_Name	
+Temp	
+Oxygen	
+Carbon_Dioxide	
+ethylene	
+damage_due_to_vibration	
+Humidity
+item_hashcode
+logistic_hashcode
+
+
+
+
+
+
